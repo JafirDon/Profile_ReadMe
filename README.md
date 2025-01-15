@@ -57,7 +57,6 @@
 **📈 My GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=MdJafirAshraf&show_icons=true&theme=solarized-light" alt="jafir" />
-<img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=MdJafirAshraf&theme=solarized-light">
 
 <br />
   
